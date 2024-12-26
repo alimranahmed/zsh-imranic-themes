@@ -17,7 +17,10 @@ Along with that, **it's clean and minimalistic**.
 ### Screenshots
 
 <img width="738" alt="Kiss theme" src="https://github.com/user-attachments/assets/f58fef32-7a92-46a5-9bee-2cde69086632" />
+
 _Git repo with no change_
 
+<br><br>
 <img width="738" alt="Kiss theme with github changes" src="https://github.com/user-attachments/assets/138cf6e0-e61d-4703-806b-2fa68d3a007e" />
+
 _Git repo with changes_
